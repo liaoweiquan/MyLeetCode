@@ -4,13 +4,14 @@
 
 
 
-|题号|官方解法|C++|解题报告|备注|
-|------|------|------|------|------|
-|1|[LeetCode][LeetCode]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
+|题号|题目链接|官方解法|C++|解题报告|备注|
+|------|------|------|------|------|------|
+|001|[Two Sum][01]|[01-solution][01-solution]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
 
+[01]: https://leetcode.com/problems/two-sum
 [Google]: https://www.google.com/ "Google"
 [Baidu]: https://www.baidu.com/ "Baidu Search"
 [Bing]: https://cn.bing.com/ "Bing Search"
-[LeetCode]: https://www.leetcode.com/
+[01-solution]: https://leetcode.com/problems/two-sum/solution/
 [MyCode]: https://www.github.com/
 [MyBlog]: https://www.dryang.xyz/
