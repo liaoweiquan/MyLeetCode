@@ -4,12 +4,13 @@
 
 
 
-|题号|官方解法|C++|备注|
+|题号|官方解法|C++|解题报告|备注|
 |------|------|------|------|
-|1|[LeetCode][4]|[MyCode][5]|Null|
+|1|[LeetCode][4]|[MyCode][5]|[MyBlog][6]|Null|
 
 [1]: https://www.google.com/ "Google"
 [2]: https://www.baidu.com/ "Baidu Search"
 [3]: https://cn.bing.com/ "Bing Search"
 [4]: https://www.leetcode.com/
 [5]: https://www.github.com/
+[6]: https://www.dryang.xyz/
