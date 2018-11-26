@@ -5,3 +5,9 @@
 [1]: https://www.google.com/ "Google"
 [2]: https://www.baidu.com/ "Baidu Search"
 [3]: https://cn.bing.com/ "Bing Search"
+
+|题号|官方解法|C++|备注|
+|------|------|------|------|
+|1|[4][LeetCode]|[5][MyCode]|Null|
+
+[4]: https://www.leetcode.com/
