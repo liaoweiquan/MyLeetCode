@@ -12,6 +12,7 @@
 |003|[Longest Substring Without Repeating Characters][03]|[Solution][03-solution]|[MyCode][MyCode]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
 |004|[Median of Two Sorted Arrays][04]|[Solution][04-solution]|[MyCode][MyCode]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
 |005|[Longest Palindromic Substring][05]|[Solution][05-solution]|[MyCode][MyCode]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
+|006|[ZigZag Conversion][06]|[Solution][06-solution]|[MyCode][MyCode]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -25,3 +26,5 @@
 [04-solution]: https://leetcode.com/problems/median-of-two-sorted-arrays/solution/
 [05]: https://leetcode.com/problems/longest-palindromic-substring/
 [05-solution]: https://leetcode.com/problems/longest-palindromic-substring/solution/
+[06]: https://leetcode.com/problems/zigzag-conversion/
+[06-solution]: https://leetcode.com/problems/zigzag-conversion/solution/
