@@ -14,6 +14,5 @@
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
 [MyCode]: https://www.github.com/
 [MyBlog]: https://www.dryang.xyz/
-
 [02]: https://leetcode.com/problems/add-two-numbers/
-[01-solution]: https://leetcode.com/problems/add-two-numbers/solution/
+[02-solution]: https://leetcode.com/problems/add-two-numbers/solution/
