@@ -7,12 +7,12 @@
 
 |题号|题目链接|官方解法|C++|Java|解题报告|备注|
 |------|------|------|------|------|------|------|
-|001|[Two Sum][01]|[Solution][01-solution]|[Cpp][Cpp-01]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
-|002|[Add Two Numbers][02]|[Solution][02-solution]|[Cpp][Cpp-02]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
-|003|[Longest Substring Without Repeating Characters][03]|[Solution][03-solution]|[Cpp1][Cpp-03] [Cpp2][Cpp-03-1]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
-|004|[Median of Two Sorted Arrays][04]|[Solution][04-solution]|[Cpp][Cpp-04]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
-|005|[Longest Palindromic Substring][05]|[Solution][05-solution]|[Cpp][Cpp-05]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
-|006|[ZigZag Conversion][06]|[Solution][06-solution]|[Cpp][Cpp-06]|[MyCode][MyCode]|[MyBlog][MyBlog]|Null|
+|001|[Two Sum][01]|[Solution][01-solution]|[Cpp][Cpp-01]|--|--|Null|
+|002|[Add Two Numbers][02]|[Solution][02-solution]|[Cpp][Cpp-02]|--|--|Null|
+|003|[Longest Substring Without Repeating Characters][03]|[Solution][03-solution]|[Cpp1][Cpp-03] [Cpp2][Cpp-03-1]|--|--|Null|
+|004|[Median of Two Sorted Arrays][04]|[Solution][04-solution]|[Cpp][Cpp-04]|--|--|Null|
+|005|[Longest Palindromic Substring][05]|[Solution][05-solution]|[Cpp][Cpp-05]|--|--|Null|
+|006|[ZigZag Conversion][06]|[Solution][06-solution]|--|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
