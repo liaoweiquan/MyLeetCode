@@ -17,7 +17,11 @@
 |008|[String to Integer(atoi)][08]|[Solution][08-solution]|[Cpp][Cpp-08]|--|--|Null|
 |009|[Palindrome Number][09]|[Solution][09-solution]|[Cpp][Cpp-09]|--|--|Null|
 |010|[Regular Expression Matching][010]|[Solution][010-solution]|[Cpp][Cpp-010]|--|--|Null|
-
+|011|[Container With Most Water][011]|[Solution][011-solution]|[Cpp][Cpp-011]|--|--|Null|
+|012|[Integer to Roman][012]|[Solution][012-solution]|[Cpp][Cpp-012]|--|--|Null|
+|013|[Roman to Integer][013]|[Solution][013-solution]|[Cpp][Cpp-013]|--|--|Null|
+|014|[Longest Common Prefix][014]|[Solution][014-solution]|[Cpp][Cpp-014]|--|--|Null|
+|015|[3Sum][015]|[Solution][015-solution]|[Cpp][Cpp-015]|--|--|Null|
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
 [Cpp-01]: https://github.com/yangyangu/MyLeetCode/blob/master/001-Two-Sum/cpp/solution.cpp
@@ -50,3 +54,18 @@
 [010]: https://leetcode.com/problems/regular-expression-matching
 [Cpp-010]: https://github.com/yangyangu/MyLeetCode/blob/master/010-Regular-Expression-Matching/cpp/solution.cpp
 [010-solution]: https://leetcode.com/problems/regular-expression-matching/solution/
+[011]: https://leetcode.com/problems/container-with-most-water
+[011-solution]: https://leetcode.com/problems/container-with-most-water/solution/
+[Cpp-011]: https://github.com/yangyangu/MyLeetCode/blob/master/011-Container-With-Most-Water/cpp/solution.cpp
+[012]: https://leetcode.com/problems/integer-to-roman
+[012-solution]: https://leetcode.com/problems/integer-to-roman/solution/
+[Cpp-012]: https://github.com/yangyangu/MyLeetCode/blob/master/012-Integer-to-Roman/cpp/solution.cpp
+[013]: https://leetcode.com/problems/roman-to-integer
+[013-solution]: https://leetcode.com/problems/roman-to-integer/solution/
+[Cpp-013]: https://github.com/yangyangu/MyLeetCode/blob/master/013-Roman-to-Integer/cpp/solution.cpp
+[014]: https://leetcode.com/problems/longest-common-prefix
+[014-solution]: https://leetcode.com/problems/longest-common-prefix/solution/
+[Cpp-014]: https://github.com/yangyangu/MyLeetCode/blob/master/014-Longest-Common-Prefix/cpp/solution.cpp
+[015]: https://leetcode.com/problems/3sum
+[015-solution]: https://leetcode.com/problems/3sum/solution/
+[Cpp-015]: https://github.com/yangyangu/MyLeetCode/blob/master/015-3Sum/cpp/solution.cpp
