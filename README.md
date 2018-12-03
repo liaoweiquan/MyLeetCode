@@ -13,6 +13,10 @@
 |004|[Median of Two Sorted Arrays][04]|[Solution][04-solution]|[Cpp][Cpp-04]|--|--|Null|
 |005|[Longest Palindromic Substring][05]|[Solution][05-solution]|[Cpp][Cpp-05]|--|--|Null|
 |006|[ZigZag Conversion][06]|[Solution][06-solution]|--|--|--|Null|
+|007|[Reverse Integer][07]|[Solution][07-solution]|--|--|--|Null|
+|008|[String to Integer(atoi)][08]|[Solution][08-solution]|--|--|--|Null|
+|009|[Palindrome Number][09]|[Solution][09-solution]|--|--|--|Null|
+|010|[Regular Expression Matching][010]|[Solution][010-solution]|--|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -34,3 +38,11 @@
 [06]: https://leetcode.com/problems/zigzag-conversion/
 [06-solution]: https://leetcode.com/problems/zigzag-conversion/solution/
 [Cpp-06]: https://www.github.com/
+[07]: https://github.com/yangyangu/MyLeetCode/blob/master/007-Reverse-Integer/cpp/solution.cpp
+[07-solution]: https://leetcode.com/problems/reverse-integer/solution/
+[08]: https://github.com/yangyangu/MyLeetCode/blob/master/008-String-to-Integer(atoi)/cpp/solution.cpp
+[08-solution]: https://leetcode.com/problems/string-to-integer-atoi/solution/
+[09]: https://github.com/yangyangu/MyLeetCode/blob/master/009-Palindrome-Number/cpp/solution.cpp
+[09-solution]: https://leetcode.com/problems/palindrome-number/solution/
+[010]: https://github.com/yangyangu/MyLeetCode/blob/master/010-Regular-Expression-Matching/cpp/solution.cpp
+[010-solution]: https://leetcode.com/problems/regular-expression-matching/solution/
