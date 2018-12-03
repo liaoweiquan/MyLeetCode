@@ -23,6 +23,10 @@
 |014|[Longest Common Prefix][014]|[Solution][014-solution]|[Cpp][Cpp-014]|--|--|Null|
 |015|[3Sum][015]|[Solution][015-solution]|[Cpp][Cpp-015]|--|--|Null|
 |016|[3Sum Closest][016]|[Solution][016-solution]|[Cpp][Cpp-016]|--|--|Null|
+|017|[Letter Combinations of a Phone Number][017]|[Solution][017-solution]|[Cpp1][Cpp-017][Cpp2][Cpp-017-1]|--|--|Null|
+|018|[4Sum][018]|[Solution][018-solution]|[Cpp][Cpp-018]|--|--|Null|
+|019|[Remove Nth Node From End of List][019]|[Solution][019-solution]|[Cpp1][Cpp-019][Cpp2][Cpp-019-1]|--|--|Null|
+|020|[4Sum][020]|[Solution][020-solution]|[Cpp1][Cpp-020][Cpp2][Cpp-020-1]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -74,3 +78,18 @@
 [016]: https://leetcode.com/problems/3sum-closest
 [016-solution]: https://leetcode.com/problems/3sum-closest/solution/
 [Cpp-016]: https://github.com/yangyangu/MyLeetCode/blob/master/016-3Sum-Closest/cpp/solution.cpp
+[017]: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+[017-solution]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/
+[Cpp-017]: https://github.com/yangyangu/MyLeetCode/blob/master/017-Letter-Combinations-of-a-Phone-Number/cpp01/solution.cpp
+[Cpp-017-1]: https://github.com/yangyangu/MyLeetCode/blob/master/017-Letter-Combinations-of-a-Phone-Number/cpp02/solution.cpp
+[018]: https://leetcode.com/problems/4sum
+[018-solution]: https://leetcode.com/problems/4sum/solution/
+[Cpp-018]: https://github.com/yangyangu/MyLeetCode/blob/master/018-4Sum/cpp/solution.cpp
+[019]: https://leetcode.com/problems/remove-nth-node-from-end-of-list
+[019-solution]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
+[Cpp-019]: https://github.com/yangyangu/MyLeetCode/blob/master/019-Remove-Nth-Node-From-End-of-List/cpp01/solution.cpp
+[Cpp-019-1]: https://github.com/yangyangu/MyLeetCode/blob/master/019-Remove-Nth-Node-From-End-of-List/cpp02/solution.cpp
+[020]: https://leetcode.com/problems/valid-parentheses
+[020-solution]: https://leetcode.com/problems/valid-parentheses/solution/
+[Cpp-020]: https://github.com/yangyangu/MyLeetCode/blob/master/020-Valid-Parentheses/cpp01/solution.cpp
+[Cpp-020-1]: https://github.com/yangyangu/MyLeetCode/blob/master/020-Valid-Parentheses/cpp02/solution.cpp
