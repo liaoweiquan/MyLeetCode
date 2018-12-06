@@ -28,6 +28,10 @@
 |019|[Remove Nth Node From End of List][019]|[Solution][019-solution]|[Cpp1][Cpp-019][Cpp2][Cpp-019-1]|--|--|Null|
 |020|[4Sum][020]|[Solution][020-solution]|[Cpp1][Cpp-020][Cpp2][Cpp-020-1]|--|--|Null|
 |021|[Merge Two Sorted Lists][021]|[Solution][021-solution]|[Cpp][Cpp-021]|--|--|Null|
+|022|[Generate Parentheses][022]|[Solution][022-solution]|[Cpp][Cpp-022]|--|--|Null|
+|023|[Merge k Sorted Lists][023]|[Solution][023-solution]|[Cpp][Cpp-023]|--|--|Null|
+|024|[Swap Nodes in Pairs][024]|[Solution][024-solution]|[Cpp1][Cpp-024][Cpp2][Cpp-024-1]|--|--|Null|
+|025|[Reverse Nodes in k-Group][025]|[Solution][025-solution]|[Cpp][Cpp-025]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -97,3 +101,16 @@
 [021]: https://leetcode.com/problems/merge-two-sorted-lists
 [021-solution]: https://leetcode.com/problems/merge-two-sorted-lists/solution/
 [Cpp-021]: https://github.com/yangyangu/MyLeetCode/blob/master/021-Merge-Two-Sorted-Lists/cpp/solution.cpp
+[022]: https://leetcode.com/problems/generate-parentheses
+[022-solution]: https://leetcode.com/problems/generate-parentheses/solution/
+[Cpp-022]: https://github.com/yangyangu/MyLeetCode/blob/master/022-Generate-Parentheses/cpp/solution.cpp
+[023]: https://leetcode.com/problems/merge-k-sorted-lists
+[023-solution]: https://leetcode.com/problems/merge-k-sorted-lists/solution/
+[Cpp-023]: https://github.com/yangyangu/MyLeetCode/blob/master/023-Merge-k-Sorted-Lists/cpp/solution.cpp
+[024]: https://leetcode.com/problems/swap-nodes-in-pairs
+[024-solution]: https://leetcode.com/problems/swap-nodes-in-pairs/solution/
+[Cpp-024]: https://github.com/yangyangu/MyLeetCode/blob/master/024-Swap-Nodes-in-Pairs/cpp01/solution.cpp
+[Cpp-024-1]: https://github.com/yangyangu/MyLeetCode/blob/master/024-Swap-Nodes-in-Pairs/cpp02/solution.cpp
+[025]: https://leetcode.com/problems/reverse-nodes-in-k-group
+[025-solution]: https://leetcode.com/problems/reverse-nodes-in-k-group/solution/
+[Cpp-025]: https://github.com/yangyangu/MyLeetCode/blob/master/025-Reverse-Nodes-in-k--Group/cpp/solution.cpp
