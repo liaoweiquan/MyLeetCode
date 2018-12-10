@@ -30,6 +30,7 @@
 |026|[Remove Duplicates from Sorted Array][026]|[Solution][026-solution]|[Cpp][Cpp-026]|--|--|Null|
 |027|[Remove Element][027]|[Solution][027-solution]|[Cpp][Cpp-027]|--|--|Null|
 |028|[Implement strStr()][028]|[Solution][028-solution]|[Cpp][Cpp-028]|--|--|Null|
+|029|[][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -121,3 +122,6 @@
 [028]: https://leetcode.com/problems/implement-strstr
 [028-solution]: https://leetcode.com/problems/implement-strstr/solution/
 [Cpp-028]: https://github.com/yangyangu/MyLeetCode/blob/master/028-Implement-strStr()/cpp/solution.cpp
+[029]: https://leetcode.com/problems/divide-two-integers
+[029-solution]: https://leetcode.com/problems/divide-two-integers/solution/
+[Cpp-029]: https://github.com/yangyangu/MyLeetCode/blob/master/029-Divide-Two-Integers/cpp/solution.cpp
