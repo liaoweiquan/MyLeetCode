@@ -27,6 +27,7 @@
 |023|[Merge k Sorted Lists][023]|[Solution][023-solution]|[Cpp][Cpp-023]|--|--|Null|
 |024|[Swap Nodes in Pairs][024]|[Solution][024-solution]|[Cpp1][Cpp-024][Cpp2][Cpp-024-1]|--|--|Null|
 |025|[Reverse Nodes in k-Group][025]|[Solution][025-solution]|[Cpp][Cpp-025]|--|--|Null|
+|026|[][026]|[Solution][026-solution]|[Cpp][Cpp-026]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -109,3 +110,6 @@
 [025]: https://leetcode.com/problems/reverse-nodes-in-k-group
 [025-solution]: https://leetcode.com/problems/reverse-nodes-in-k-group/solution/
 [Cpp-025]: https://github.com/yangyangu/MyLeetCode/blob/master/025-Reverse-Nodes-in-k--Group/cpp/solution.cpp
+[026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+[026-solution]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/
+[Cpp-026]: https://github.com/yangyangu/MyLeetCode/blob/master/026-Remove-Duplicates-from-Sorted-Array/cpp/solution.cpp
