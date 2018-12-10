@@ -33,8 +33,9 @@
 |029|[Divide Two Integers][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
 |032|[Longest Valid Parentheses][032]|[Solution][032-solution]|[Cpp][Cpp-032]|--|--|Null|
 |033|[Search in Rotated Sorted Array][033]|[Solution][033-solution]|[Cpp][Cpp-033]|--|--|Null|
-|034|[][034]|[Solution][034-solution]|[Cpp][Cpp-034]|--|--|Null|
-|035|[][035]|[Solution][035-solution]|[Cpp][Cpp-035]|--|--|Null|
+|034|[Find First and Last Position of Element in Sorted Array][034]|[Solution][034-solution]|[Cpp][Cpp-034]|--|--|Null|
+|035|[Search Insert Position][035]|[Solution][035-solution]|[Cpp][Cpp-035]|--|--|Null|
+|038|[Count and Say][038]|[Solution][038-solution]|[Cpp][Cpp-038]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -141,3 +142,6 @@
 [035]: https://leetcode.com/problems/search-insert-position
 [035-solution]: https://leetcode.com/problems/search-insert-position
 [Cpp-035]: https://github.com/yangyangu/MyLeetCode/blob/master/035-Search-Insert-Position/cpp/solution.cpp
+[038]: https://leetcode.com/problems/count-and-say
+[038-solution]: https://leetcode.com/problems/count-and-say/solution/
+[Cpp-038]: https://github.com/yangyangu/MyLeetCode/blob/master/038-Count-and-Say/cpp/solution.cpp
