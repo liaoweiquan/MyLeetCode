@@ -32,6 +32,7 @@
 |028|[Implement strStr()][028]|[Solution][028-solution]|[Cpp][Cpp-028]|--|--|Null|
 |029|[Divide Two Integers][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
 |032|[Longest Valid Parentheses][032]|[Solution][032-solution]|[Cpp][Cpp-032]|--|--|Null|
+|033|[Search in Rotated Sorted Array][033]|[Solution][033-solution]|[Cpp][Cpp-033]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -129,3 +130,6 @@
 [032]: https://leetcode.com/problems/longest-valid-parentheses
 [032-solution]: https://leetcode.com/problems/longest-valid-parentheses/solution/
 [Cpp-032]: https://github.com/yangyangu/MyLeetCode/blob/master/032-Longest-Valid-Parentheses/cpp/solution.cpp
+[033]: https://leetcode.com/problems/search-in-rotated-sorted-array
+[033-solution]: https://leetcode.com/problems/search-in-rotated-sorted-array/solution/
+[Cpp-033]: https://github.com/yangyangu/MyLeetCode/blob/master/033-Search-in-Rotated-Sorted-Array/cpp/solution.cpp
