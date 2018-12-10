@@ -28,6 +28,8 @@
 |024|[Swap Nodes in Pairs][024]|[Solution][024-solution]|[Cpp1][Cpp-024][Cpp2][Cpp-024-1]|--|--|Null|
 |025|[Reverse Nodes in k-Group][025]|[Solution][025-solution]|[Cpp][Cpp-025]|--|--|Null|
 |026|[Remove Duplicates from Sorted Array][026]|[Solution][026-solution]|[Cpp][Cpp-026]|--|--|Null|
+|027|[Remove Element][027]|[Solution][027-solution]|[Cpp][Cpp-027]|--|--|Null|
+|028|[Implement strStr()][028]|[Solution][028-solution]|[Cpp][Cpp-028]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -113,3 +115,9 @@
 [026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array
 [026-solution]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/
 [Cpp-026]: https://github.com/yangyangu/MyLeetCode/blob/master/026-Remove-Duplicates-from-Sorted-Array/cpp/solution.cpp
+[027]: https://leetcode.com/problems/remove-element
+[027-solution]: https://leetcode.com/problems/remove-element/solution/
+[Cpp-027]: https://github.com/yangyangu/MyLeetCode/blob/master/027-Remove-Element/cpp/solution.cpp
+[028]: https://leetcode.com/problems/implement-strstr
+[028-solution]: https://leetcode.com/problems/implement-strstr/solution/
+[Cpp-028]: https://github.com/yangyangu/MyLeetCode/blob/master/028-Implement-strStr()/cpp/solution.cpp
