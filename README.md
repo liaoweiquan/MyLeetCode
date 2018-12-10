@@ -27,7 +27,7 @@
 |023|[Merge k Sorted Lists][023]|[Solution][023-solution]|[Cpp][Cpp-023]|--|--|Null|
 |024|[Swap Nodes in Pairs][024]|[Solution][024-solution]|[Cpp1][Cpp-024][Cpp2][Cpp-024-1]|--|--|Null|
 |025|[Reverse Nodes in k-Group][025]|[Solution][025-solution]|[Cpp][Cpp-025]|--|--|Null|
-|026|[][026]|[Solution][026-solution]|[Cpp][Cpp-026]|--|--|Null|
+|026|[Remove Duplicates from Sorted Array][026]|[Solution][026-solution]|[Cpp][Cpp-026]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
