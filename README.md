@@ -33,6 +33,8 @@
 |029|[Divide Two Integers][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
 |032|[Longest Valid Parentheses][032]|[Solution][032-solution]|[Cpp][Cpp-032]|--|--|Null|
 |033|[Search in Rotated Sorted Array][033]|[Solution][033-solution]|[Cpp][Cpp-033]|--|--|Null|
+|034|[][034]|[Solution][034-solution]|[Cpp][Cpp-034]|--|--|Null|
+|035|[][035]|[Solution][035-solution]|[Cpp][Cpp-035]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -133,3 +135,9 @@
 [033]: https://leetcode.com/problems/search-in-rotated-sorted-array
 [033-solution]: https://leetcode.com/problems/search-in-rotated-sorted-array/solution/
 [Cpp-033]: https://github.com/yangyangu/MyLeetCode/blob/master/033-Search-in-Rotated-Sorted-Array/cpp/solution.cpp
+[034]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+[034-solution]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/
+[Cpp-034]: https://github.com/yangyangu/MyLeetCode/blob/master/034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/cpp/solution.cpp
+[035]: https://leetcode.com/problems/search-insert-position
+[035-solution]: https://leetcode.com/problems/search-insert-position
+[Cpp-035]: https://github.com/yangyangu/MyLeetCode/blob/master/035-Search-Insert-Position/cpp/solution.cpp
