@@ -30,7 +30,7 @@
 |026|[Remove Duplicates from Sorted Array][026]|[Solution][026-solution]|[Cpp][Cpp-026]|--|--|Null|
 |027|[Remove Element][027]|[Solution][027-solution]|[Cpp][Cpp-027]|--|--|Null|
 |028|[Implement strStr()][028]|[Solution][028-solution]|[Cpp][Cpp-028]|--|--|Null|
-|029|[][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
+|029|[Divide Two Integers][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
