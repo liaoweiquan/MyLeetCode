@@ -31,6 +31,7 @@
 |027|[Remove Element][027]|[Solution][027-solution]|[Cpp][Cpp-027]|--|--|Null|
 |028|[Implement strStr()][028]|[Solution][028-solution]|[Cpp][Cpp-028]|--|--|Null|
 |029|[Divide Two Integers][029]|[Solution][029-solution]|[Cpp][Cpp-029]|--|--|Null|
+|032|[Longest Valid Parentheses][032]|[Solution][032-solution]|[Cpp][Cpp-032]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -125,3 +126,6 @@
 [029]: https://leetcode.com/problems/divide-two-integers
 [029-solution]: https://leetcode.com/problems/divide-two-integers/solution/
 [Cpp-029]: https://github.com/yangyangu/MyLeetCode/blob/master/029-Divide-Two-Integers/cpp/solution.cpp
+[032]: https://leetcode.com/problems/longest-valid-parentheses
+[032-solution]: https://leetcode.com/problems/longest-valid-parentheses/solution/
+[Cpp-032]: https://github.com/yangyangu/MyLeetCode/blob/master/032-Longest-Valid-Parentheses/cpp/solution.cpp
