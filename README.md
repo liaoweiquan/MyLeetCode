@@ -36,6 +36,13 @@
 |034|[Find First and Last Position of Element in Sorted Array][034]|[Solution][034-solution]|[Cpp][Cpp-034]|--|--|Null|
 |035|[Search Insert Position][035]|[Solution][035-solution]|[Cpp][Cpp-035]|--|--|Null|
 |038|[Count and Say][038]|[Solution][038-solution]|[Cpp][Cpp-038]|--|--|Null|
+|039|[Combination Sum][039]|[Solution][039-solution]|[Cpp][Cpp-039]|--|--|Null|
+|041|[First Missing Positive][041]|[Solution][041-solution]|[Cpp][Cpp-041]|--|--|Null|
+|043|[Multiply Strings][043]|[Solution][043-solution]|[Cpp][Cpp-043]|--|--|Null|
+|046|[Permutations][046]|[Solution][046-solution]|[Cpp1][Cpp-046][Cpp2][Cpp-046-1]|--|--|Null|
+|047|[Permutations II][047]|[Solution][047-solution]|[Cpp][Cpp-047]|--|--|Null|
+|048|[Rotate Image][048]|[Solution][048-solution]|[Cpp][Cpp-048]|--|--|Null|
+|050|[Pow(x, n)][050]|[Solution][050-solution]|[Cpp][Cpp-050]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -145,3 +152,25 @@
 [038]: https://leetcode.com/problems/count-and-say
 [038-solution]: https://leetcode.com/problems/count-and-say/solution/
 [Cpp-038]: https://github.com/yangyangu/MyLeetCode/blob/master/038-Count-and-Say/cpp/solution.cpp
+[039]: https://leetcode.com/problems/combination-sum
+[039-solution]: https://leetcode.com/problems/combination-sum/solution/
+[Cpp-039]: https://github.com/yangyangu/MyLeetCode/blob/master/039-Combination-Sum/cpp/solution.cpp
+[041]: https://leetcode.com/problems/first-missing-positive
+[041-solution]: https://leetcode.com/problems/first-missing-positive/solution/
+[Cpp-041]: https://github.com/yangyangu/MyLeetCode/blob/master/041-First-Missing-Positive/cpp/solution.cpp
+[043]: https://leetcode.com/problems/multiply-strings
+[043-solution]: https://leetcode.com/problems/multiply-strings/solution/
+[Cpp-043]: https://github.com/yangyangu/MyLeetCode/blob/master/043-Multiply-Strings/cpp/solution.cpp
+[046]: https://leetcode.com/problems/permutations
+[046-solution]: https://leetcode.com/problems/permutations/solution/
+[Cpp-046]: https://github.com/yangyangu/MyLeetCode/blob/master/046-Permutations/cpp01/solution.cpp
+[Cpp-046-1]: https://github.com/yangyangu/MyLeetCode/blob/master/046-Permutations/cpp02/solution.cpp
+[047]: https://leetcode.com/problems/permutations-ii
+[047-solution]: https://leetcode.com/problems/permutations-ii/solution/
+[Cpp-047]: https://github.com/yangyangu/MyLeetCode/blob/master/047-Permutations-II/cpp/solution.cpp
+[048]: https://leetcode.com/problems/rotate-image
+[048-solution]: https://leetcode.com/problems/rotate-image/solution/
+[Cpp-048]: https://github.com/yangyangu/MyLeetCode/blob/master/048-Rotate-Image/cpp/solution.cpp
+[050]: https://leetcode.com/problems/powx-n
+[050-solution]: https://leetcode.com/problems/powx-n/solution/
+[Cpp-050]: https://github.com/yangyangu/MyLeetCode/blob/master/050-Pow(x%2Cn)/cpp/solution.cpp
