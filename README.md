@@ -45,6 +45,12 @@
 |050|[Pow(x, n)][050]|[Solution][050-solution]|[Cpp][Cpp-050]|--|--|Null|
 |051|[N-Queens][051]|[Solution][051-solution]|[Cpp][Cpp-051]|--|--|Null|
 |054|[Spiral Matrix][054]|[Solution][054-solution]|[Cpp][Cpp-054]|--|--|Null|
+|059|[Spiral Matrix II][059]|[Solution][059-solution]|[Cpp][Cpp-059]|--|--|Null|
+|062|[Unique Paths][062]|[Solution][062-solution]|[Cpp][Cpp-062]|--|--|Null|
+|063|[Unique Paths II][063]|[Solution][063-solution]|[Cpp][Cpp-063]|--|--|Null|
+|064|[Minimum Path Sum][064]|[Solution][064-solution]|[Cpp][Cpp-064]|--|--|Null|
+|066|[Plus One][066]|[Solution][066-solution]|[Cpp][Cpp-066]|--|--|Null|
+|067|[Add Binary][067]|[Solution][067-solution]|[Cpp][Cpp-067]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -180,5 +186,23 @@
 [051-solution]: https://leetcode.com/problems/n-queens/solution/
 [Cpp-051]: https://github.com/yangyangu/MyLeetCode/blob/master/051-N-Queens/cpp/solution.cpp
 [054]: https://leetcode.com/problems/spiral-matrix
-[054-solution]: https://leetcode.com/problems/spiral-matrix
+[054-solution]: https://leetcode.com/problems/spiral-matrix/solution/
 [Cpp-054]: https://github.com/yangyangu/MyLeetCode/blob/master/054-Spiral-Matrix/cpp/solution.cpp
+[059]: https://leetcode.com/problems/spiral-matrix-ii
+[059-solution]: https://leetcode.com/problems/spiral-matrix-ii/solution/
+[Cpp-059]: https://github.com/yangyangu/MyLeetCode/blob/master/059-Spiral-Matrix-II/cpp/solution.cpp
+[062]: https://leetcode.com/problems/unique-paths
+[062-solution]: https://leetcode.com/problems/unique-paths/solution/
+[Cpp-062]: https://github.com/yangyangu/MyLeetCode/blob/master/062-Unique-Paths/cpp/solution.cpp
+[063]: https://leetcode.com/problems/unique-paths-ii
+[063-solution]: https://leetcode.com/problems/unique-paths-ii/solution/
+[Cpp-063]: https://github.com/yangyangu/MyLeetCode/blob/master/063-Unique-Paths-II/cpp/solution.cpp
+[064]: https://leetcode.com/problems/minimum-path-sum
+[064-solution]: https://leetcode.com/problems/minimum-path-sum/solution/
+[Cpp-064]: https://github.com/yangyangu/MyLeetCode/blob/master/064-Minimum-Path-Sum/cpp/solution.cpp
+[066]: https://leetcode.com/problems/plus-one
+[066-solution]: https://leetcode.com/problems/plus-one/solution/
+[Cpp-066]: https://github.com/yangyangu/MyLeetCode/blob/master/066-Plus-One/cpp/solution.cpp
+[067]: https://leetcode.com/problems/add-binary
+[067-solution]: https://leetcode.com/problems/add-binary/solution/
+[Cpp-067]: https://github.com/yangyangu/MyLeetCode/blob/master/067-Add-Binary/cpp/solution.cpp
