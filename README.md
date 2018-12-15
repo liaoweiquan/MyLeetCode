@@ -43,6 +43,7 @@
 |047|[Permutations II][047]|[Solution][047-solution]|[Cpp][Cpp-047]|--|--|Null|
 |048|[Rotate Image][048]|[Solution][048-solution]|[Cpp][Cpp-048]|--|--|Null|
 |050|[Pow(x, n)][050]|[Solution][050-solution]|[Cpp][Cpp-050]|--|--|Null|
+|051|[N-Queens][051]|[Solution][051-solution]|[Cpp][Cpp-051]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -174,3 +175,6 @@
 [050]: https://leetcode.com/problems/powx-n
 [050-solution]: https://leetcode.com/problems/powx-n/solution/
 [Cpp-050]: https://github.com/yangyangu/MyLeetCode/blob/master/050-Pow(x%2Cn)/cpp/solution.cpp
+[051]: https://leetcode.com/problems/n-queens
+[051-solution]: https://leetcode.com/problems/n-queens/solution/
+[Cpp-051]: https://github.com/yangyangu/MyLeetCode/blob/master/051-N-Queens/cpp/solution.cpp
