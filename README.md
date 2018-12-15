@@ -52,6 +52,16 @@
 |066|[Plus One][066]|[Solution][066-solution]|[Cpp][Cpp-066]|--|--|Null|
 |067|[Add Binary][067]|[Solution][067-solution]|[Cpp][Cpp-067]|--|--|Null|
 |070|[Climbing Stairs][070]|[Solution][070-solution]|[Cpp1][Cpp-070][Cpp2][Cpp-070-1][Cpp3][Cpp-070-2]|--|--|Null|
+|075|[Sort Colors][075]|[Solution][075-solution]|[Cpp1][Cpp-075][Cpp2][Cpp-075-1]|--|--|Null|
+|077|[Combinations][077]|[Solution][077-solution]|[Cpp1][Cpp-077][Cpp2][Cpp-077-1]|--|--|Null|
+|079|[Word Search][079]|[Solution][079-solution]|[Cpp][Cpp-079]|--|--|Null|
+|080|[Word SearchRemove Duplicates from Sorted Array II][080]|[Solution][080-solution]|[Cpp][Cpp-080]|--|--|Null|
+|082|[Remove Duplicates from Sorted List II][082]|[Solution][082-solution]|[Cpp][Cpp-082]|--|--|Null|
+|086|[Partition List][086]|[Solution][086-solution]|[Cpp][Cpp-086]|--|--|Null|
+|088|[Merge Sorted Array][088]|[Solution][088-solution]|[Cpp][Cpp-088]|--|--|Null|
+|092|[Reverse Linked List II][092]|[Solution][092-solution]|[Cpp][Cpp-092]|--|--|Null|
+|094|[Binary Tree Inorder Traversal][094]|[Solution][094-solution]|[Cpp1][Cpp-094][Cpp2][Cpp-094-1]|--|--|Null|
+|100|[Same Tree][100]|[Solution][100-solution]|[Cpp1][Cpp-100][Cpp2][Cpp-100-1]|--|--|Null|
 
 [01]: https://leetcode.com/problems/two-sum
 [01-solution]: https://leetcode.com/problems/two-sum/solution/
@@ -212,3 +222,37 @@
 [Cpp-070]: https://github.com/yangyangu/MyLeetCode/blob/master/070-Climbing-Stairs/cpp-01/solution.cpp
 [Cpp-070-1]: https://github.com/yangyangu/MyLeetCode/blob/master/070-Climbing-Stairs/cpp-02/solution.cpp
 [Cpp-070-2]: https://github.com/yangyangu/MyLeetCode/blob/master/070-Climbing-Stairs/cpp-03/solution.cpp
+[075]: https://leetcode.com/problems/sort-colors
+[075-solution]: https://leetcode.com/problems/sort-colors/solution/
+[Cpp-075]: https://github.com/yangyangu/MyLeetCode/blob/master/075-Sort-Colors/cpp-01/solution.cpp
+[Cpp-075-1]: https://github.com/yangyangu/MyLeetCode/blob/master/075-Sort-Colors/cpp-02/solution.cpp
+[077]: https://leetcode.com/problems/combinations
+[077-solution]: https://leetcode.com/problems/combinations/solution/
+[Cpp-077]: https://github.com/yangyangu/MyLeetCode/blob/master/077-Combinations/cpp-01/solution.cpp
+[Cpp-077-1]: https://github.com/yangyangu/MyLeetCode/blob/master/077-Combinations/cpp-02/solution.cpp
+[079]: https://leetcode.com/problems/word-search
+[079-solution]: https://leetcode.com/problems/word-search/solution/
+[Cpp-079]: https://github.com/yangyangu/MyLeetCode/blob/master/079-Word-Search/cpp/solution.cpp
+[080]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+[080-solution]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solution/
+[Cpp-080]: https://github.com/yangyangu/MyLeetCode/blob/master/080-Remove-Duplicates-from-Sorted-Array-II/cpp/solution.cpp
+[082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
+[082-solution]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solution/
+[Cpp-082]: https://github.com/yangyangu/MyLeetCode/blob/master/082-Remove-Duplicates-from-Sorted-List-II/cpp/solution.cpp
+[086]: https://leetcode.com/problems/partition-list
+[086-solution]: https://leetcode.com/problems/partition-list/solution/
+[Cpp-086]: https://github.com/yangyangu/MyLeetCode/blob/master/086-Partition-List/cpp/solution.cpp
+[088]: https://leetcode.com/problems/merge-sorted-array
+[088-solution]: https://leetcode.com/problems/merge-sorted-array/solution/
+[Cpp-088]: https://github.com/yangyangu/MyLeetCode/blob/master/088-Merge-Sorted-Array/cpp/solution.cpp
+[092]: https://leetcode.com/problems/reverse-linked-list-ii
+[092-solution]: https://leetcode.com/problems/reverse-linked-list-ii/solution/
+[Cpp-092]: https://github.com/yangyangu/MyLeetCode/blob/master/092-Reverse-Linked-List-II/cpp/solution.cpp
+[094]: https://leetcode.com/problems/binary-tree-inorder-traversal
+[094-solution]: https://leetcode.com/problems/binary-tree-inorder-traversal/solution/
+[Cpp-094]: https://github.com/yangyangu/MyLeetCode/blob/master/094-Binary-Tree-Inorder-Traversal/cpp-01/solution.cpp
+[Cpp-094-1]: https://github.com/yangyangu/MyLeetCode/blob/master/094-Binary-Tree-Inorder-Traversal/cpp-02/solution.cpp
+[100]: https://leetcode.com/problems/same-tree
+[100-solution]: https://leetcode.com/problems/same-tree/solution/
+[Cpp-100]: https://github.com/yangyangu/MyLeetCode/blob/master/100-Same-Tree/cpp-01/solution.cpp
+[Cpp-100-1]: https://github.com/yangyangu/MyLeetCode/blob/master/100-Same-Tree/cpp-02/solution.cpp
