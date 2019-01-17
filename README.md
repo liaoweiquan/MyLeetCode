@@ -1,5 +1,5 @@
-# :pencil2: Leetcode Solutions with Cpp
-Update time:  2019-01-17 18:50:22
+# :pencil2: Leetcode Solutions with Cpp,Java
+Update time:  2019-01-17 20:45:08
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -36,13 +36,13 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |18|[4sum](https://leetcode.com/problems/4sum)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/018-4sum/4sum.cpp)||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/019-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp)|[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/020-valid-parentheses/valid-parentheses.cpp)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
-|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/021-merge-two-sorted-lists/merge-two-sorted-lists.cpp)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
+|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/021-merge-two-sorted-lists/merge-two-sorted-lists.cpp) [Java](https://github.com/yangyangu/MyLeetCode/blob/master/021-merge-two-sorted-lists/merge-two-sorted-lists.java)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/022-generate-parentheses/generate-parentheses.cpp)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/023-merge-k-sorted-lists/merge-k-sorted-lists.cpp)|[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/024-swap-nodes-in-pairs/swap-nodes-in-pairs.cpp)||Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/025-reverse-nodes-in-k-group/reverse-nodes-in-k-group.cpp)||Hard|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
-|27|[remove-element](https://leetcode.com/problems/remove-element)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/027-remove-element/remove-element.cpp)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
+|27|[remove-element](https://leetcode.com/problems/remove-element)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/027-remove-element/remove-element.cpp) [Java](https://github.com/yangyangu/MyLeetCode/blob/master/027-remove-element/remove-element.java)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/028-implement-strstr/implement-strstr.cpp)||Easy|
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|[Cpp](https://github.com/yangyangu/MyLeetCode/blob/master/029-divide-two-integers/divide-two-integers.cpp)||Medium|
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
