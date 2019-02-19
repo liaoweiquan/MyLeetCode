@@ -1,19 +1,25 @@
-// Write a function that takes a string as input and returns the string reversed.
+// Write a function that reverses a string. The input string is given as an array of characters char[].
+//
+// Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+//
+// You may assume all the characters consist of printable ascii characters.
+//
+//  
+//
 //
 // Example 1:
 //
 //
-//
-// Input: "hello"
-// Output: "olleh"
+// Input: ["h","e","l","l","o"]
+// Output: ["o","l","l","e","h"]
 //
 //
 //
 // Example 2:
 //
 //
-// Input: "A man, a plan, a canal: Panama"
-// Output: "amanaP :lanac a ,nalp a ,nam A"
+// Input: ["H","a","n","n","a","h"]
+// Output: ["h","a","n","n","a","H"]
 //
 //
 //
