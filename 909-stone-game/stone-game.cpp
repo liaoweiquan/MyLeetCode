@@ -31,7 +31,6 @@
 // 	1 <= piles[i] <= 500
 // 	sum(piles) is odd.
 //
-//
 
 
 class Solution {

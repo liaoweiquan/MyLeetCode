@@ -27,7 +27,8 @@
 // Output: false
 //
 // Notes:
-// You may assume pattern contains only lowercase letters, and str contains lowercase letters separated by a single space.
+// You may assume pattern contains only lowercase letters, and str contains lowercase letters that may be separated by a single space.
+//
 
 
 class Solution {

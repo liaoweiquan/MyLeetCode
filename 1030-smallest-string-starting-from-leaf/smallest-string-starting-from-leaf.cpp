@@ -48,11 +48,8 @@
 // Note:
 //
 //
-// 	The number of nodes in the given tree will be between 1 and 1000.
+// 	The number of nodes in the given tree will be between 1 and 8500.
 // 	Each node in the tree will have a value between 0 and 25.
-//
-//
-//  
 //
 //
 //
