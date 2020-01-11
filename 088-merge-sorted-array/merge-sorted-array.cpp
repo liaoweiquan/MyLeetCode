@@ -16,7 +16,6 @@
 //
 // Output: [1,2,2,3,5,6]
 //
-//
 
 
 class Solution {

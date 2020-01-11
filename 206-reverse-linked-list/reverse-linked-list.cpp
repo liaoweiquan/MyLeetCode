@@ -23,13 +23,16 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        if(head == NULL || head->next == NULL) return head;
-        
-        ListNode* nextNode = head->next;
-        ListNode* newhead = reverseList(nextNode);
-        nextNode->next = head;
-        head->next = NULL;
-        return newhead;
+    ListNode* reverseList(ListNode* pHead) {
+        ListNode * cur = pHead, * next = nullptr, * prev = nullptr;
+        if(cur == nullptr) return cur;
+        while(cur->next){
+            next = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = next;
+        }
+        cur->next = prev;
+        return cur;
     }
 };

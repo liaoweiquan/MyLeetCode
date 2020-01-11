@@ -25,13 +25,12 @@
 
 class Solution {
 public:
-    
     bool canJump(vector<int>& nums) {
-        int maxn = 0;
+        int sum = 0;
         for(int i = 0; i < nums.size() - 1; ++ i){
-            maxn = max(maxn, i + nums[i]);
-            if(nums[i] == 0 && maxn <= i) break;
+            sum = max(sum, i + nums[i]);
+            if(nums[i] == 0 && sum <= i) break;
         }
-        return maxn >= nums.size() - 1;
+        return sum >= nums.size() - 1;
     }
 };

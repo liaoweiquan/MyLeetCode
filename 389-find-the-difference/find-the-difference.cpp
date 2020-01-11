@@ -22,12 +22,19 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin(),s.end());
-    sort(t.begin(),t.end());
-
-    for(int i = 0 ; i <= s.size() - 1; ++i){
-        if(s[i] != t[i]) return t[i];
-    }
-    return t[t.size() - 1];
+        int sn[26] = {0}, tn[26] = {0};
+        for(auto ch: s){
+            ++ sn[ch - 'a'];
+        }
+        for(auto ch: t){
+            ++ tn[ch - 'a'];
+        }
+        for(int i = 0; i < 26; ++ i){
+            if(sn[i] == tn[i])
+                continue;
+            if(tn[i] > sn[i])
+                return i + 'a';
+        }
+        return 'a';
     }
 };

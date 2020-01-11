@@ -42,20 +42,18 @@
 // for (int i = 0; i < len; i++) {
 //     print(nums[i]);
 // }
-//
 
 
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        if(nums.size()==0)
-        return 0;
-    int n = 0;
-    for(int i = 0;i <= nums.size()-1; ++i){
-        if(nums[i] != val){
-            nums[n++] = nums[i];
+        if(nums.empty()) return 0;
+
+        int len = 0;
+        for(int i = 0; i < nums.size(); ++ i){
+            if(nums[i] != val)
+                nums[len ++] = nums[i];
         }
-    }
-    return n;
+        return len;
     }
 };

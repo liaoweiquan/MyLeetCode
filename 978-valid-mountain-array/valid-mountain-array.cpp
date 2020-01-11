@@ -7,7 +7,10 @@
 // 	There exists some i with 0 < i < A.length - 1 such that:
 //
 // 		A[0] < A[1] < ... A[i-1] < A[i] 
-// 		A[i] > A[i+1] > ... > A[B.length - 1]
+// 		A[i] > A[i+1] > ... > A[A.length - 1]
+//
+//
+//
 //
 //
 //

@@ -15,6 +15,7 @@
 //
 // Then 4 is the first bad version. 
 //
+//
 
 
 // Forward declaration of isBadVersion API.
